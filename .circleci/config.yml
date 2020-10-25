@@ -9,8 +9,7 @@ jobs:
     branches:
 
       only:
-        - chapter2
-        sdfsdfsdf  
+        - chapter2  
     steps:
       - checkout
       - setup_remote_docker
